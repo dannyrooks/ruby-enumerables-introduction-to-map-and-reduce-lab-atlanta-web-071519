@@ -36,7 +36,7 @@ def map_to_square(source_array)
   i =+ 1
   end 
   return new_array
-end
+en
 
 
 
